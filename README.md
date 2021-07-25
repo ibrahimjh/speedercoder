@@ -2,7 +2,7 @@
 
 Feel free to fork any of my repos and send me pull requests.
 
-I will merge all useful commits.
+I will review and merge all useful changes.
 
 Thanks.
 
